@@ -1,7 +1,7 @@
 joblib
 pandas
-streamlit==1.32.0
+streamlit
 numpy
 scikit-learn
 xgboost
-altair==4.2.2
+
