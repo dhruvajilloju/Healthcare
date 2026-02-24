@@ -128,5 +128,7 @@ The objective of this project is to build a predictive model that accurately est
 ## 👨‍💻 Author
 
 **Dhruva Jilloju**
+
 B.Tech Mechanical Engineering (2024)
+
 Aspiring Data Analyst / Data Scientist
